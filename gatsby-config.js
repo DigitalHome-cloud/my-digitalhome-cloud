@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `My digital Home`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://my.digitalhome.cloud`
   },
   plugins: ["gatsby-plugin-google-gtag", "gatsby-plugin-image", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
